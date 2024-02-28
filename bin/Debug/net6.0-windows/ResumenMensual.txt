@@ -1,0 +1,2 @@
+Mes                    Ganancias              Gastos                 DineroDisponible       DineroParaUtilidad     Salario1               Salario2               
+01-2024                   118.00                    18.50                     99.50                     49.75                     24.88                     24.88                     

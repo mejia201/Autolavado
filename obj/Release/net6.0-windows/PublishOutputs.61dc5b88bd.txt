@@ -1,0 +1,5 @@
+C:\Users\Bryan\OneDrive\Documentos\chichi-autolavado.exe
+C:\Users\Bryan\OneDrive\Documentos\chichi-autolavado.dll
+C:\Users\Bryan\OneDrive\Documentos\chichi-autolavado.deps.json
+C:\Users\Bryan\OneDrive\Documentos\chichi-autolavado.runtimeconfig.json
+C:\Users\Bryan\OneDrive\Documentos\chichi-autolavado.pdb

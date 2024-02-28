@@ -1,0 +1,11 @@
+Fecha: 4/1/2024
+Nombre: C.Gasolina, Precio: 3.50
+Total de gastos del día: $3.50
+
+
+Fecha: 8/1/2024
+Nombre: C. silicon llanta, Precio: 5
+Nombre: Desengrasante, Precio: 10
+Total de gastos del día: $15.00
+
+

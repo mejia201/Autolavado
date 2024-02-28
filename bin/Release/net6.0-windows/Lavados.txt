@@ -1,0 +1,8 @@
+Fecha: 19/1/2024
+Marca: Toyota, Modelo: Land Cruiser, Precio: 12
+Total del Día: $12.00
+
+Fecha: 20/1/2024
+Marca: Toyota, Modelo: Land Cruiser, Precio: 2
+Total del Día: $2.00
+

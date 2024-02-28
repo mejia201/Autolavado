@@ -1,0 +1,55 @@
+Fecha: 2/1/2024
+Marca: Toyota, Modelo: Hilux, Precio: 5
+Marca: Motos, Modelo: Modelo Estadar, Precio: 2
+Total del Día: $7.00
+
+Fecha: 5/1/2024
+Marca: Motos, Modelo: Modelo Estadar, Precio: 2
+Marca: Kia, Modelo: Rio, Precio: 3
+Marca: Nissan, Modelo: Sentra, Precio: 3
+Total del Día: $8.00
+
+Fecha: 6/1/2024
+Marca: Toyota, Modelo: Tacoma, Precio: 5
+Marca: Chevrolet, Modelo: Monza, Precio: 3
+Marca: Nissan, Modelo: Sentra, Precio: 3
+Marca: Jeep, Modelo: Cherokee, Precio: 5
+Marca: Mitsubishi, Modelo: Montero, Precio: 5
+Total del Día: $21.00
+
+Fecha: 7/1/2024
+Marca: Chevrolet, Modelo: Spark, Precio: 3
+Total del Día: $3.00
+
+Fecha: 8/1/2024
+Marca: Motoniveladora, Modelo: Modelo estandar, Precio: 45
+Marca: Motos, Modelo: Modelo Estadar, Precio: 2
+Total del Día: $47.00
+
+Fecha: 10/1/2024
+Marca: Kia, Modelo: Spectra, Precio: 3
+Marca: Nissan, Modelo: Frontier, Precio: 4
+Total del Día: $7.00
+
+Fecha: 11/1/2024
+Marca: Nissan, Modelo: Navara, Precio: 5
+Total del Día: $5.00
+
+Fecha: 13/1/2024
+Marca: Ford, Modelo: Ranger, Precio: 5
+Marca: Nissan, Modelo: Sentra, Precio: 3
+Marca: Isuzu, Modelo: Swift, Precio: 3
+Total del Día: $11.00
+
+Fecha: 16/1/2024
+Marca: Chevrolet, Modelo: Spark, Precio: 3
+Total del Día: $3.00
+
+Fecha: 17/1/2024
+Marca: Dodge, Modelo: Charger, Precio: 3
+Total del Día: $3.00
+
+Fecha: 18/1/2024
+Marca: Chevrolet, Modelo: qq, Precio: 3
+Total del Día: $3.00
+

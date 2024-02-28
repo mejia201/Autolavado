@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Bryan\Proyectos_VisualStudio\chichi-autolavado\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Views\Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\FormVistaPrevia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Lavadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Pagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\reporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+Mes                    Ganancias              Gastos                 DineroDisponible       DineroParaUtilidad     Salario1               Salario2               
